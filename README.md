@@ -1,2 +1,2 @@
 # CX
-Hello World
+Goodbye Cruel World
