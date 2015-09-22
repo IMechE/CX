@@ -1,2 +1,2 @@
 # CX
-Goodbye Cruel World
+THIS IS GONE!
